@@ -4,7 +4,7 @@
 
 - <b>Full Stack Web App (React, Vue, PHP(Laravel))</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Ticket Generator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Laravel & Vue.js (Quasar Framework))</b></i>
+  - [Ticket Generator]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/Zyk-Broncano/React_Full-stack)) <b><i>(Laravel & Vue.js (Quasar Framework))</b></i>
   - [Simple CRUD](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Laravel & React.Js)</b></i>
 
 <h2>📄 Certificates</h2>
